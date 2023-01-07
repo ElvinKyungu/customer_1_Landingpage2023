@@ -1,0 +1,53 @@
+:root{
+    /* Colors */
+    --colors-primary: #ef8316;
+    --btn-bg:#13245A;
+    --white-color: #f1f1f1;
+
+    /* Margins */
+
+    /* Padding */
+
+    /* borders */
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* classes des bases */
+
+
+
+
+/* classes pour les blocs */
+
+
+
+
+/* Header */
+
+
+
+/* Banner */
+
+
+
+/* Scroll draggable */
+
+
+
+/* Services */
+
+
+
+/* Contacts */
+
+
+
+/* Footer */
+
+
+
+/* Medias queries */
